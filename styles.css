@@ -1,0 +1,143 @@
+#wrapper{
+    background-color: orange;
+    height: 35px;
+    width:100%;
+    display: flex;
+   
+}
+
+.falabella{
+    width: 100px;
+    min-width: 100px;
+  
+    border-radius: 35px;
+    padding-left: 25px;
+    padding-right: 15px;
+    margin-left: -15px;
+    background-image: linear-gradient(to right, red , rgb(219, 143, 0));
+}
+
+.falabella p{
+    color: whitesmoke;
+    font-size: 18px;
+    padding-right: 100px;
+    position:absolute;
+    top: 2px;
+    font-family: font-family: 'Nova Round', cursive;
+
+}
+
+.menu{
+    color: white;
+    display: flex;
+    margin-left: 20px;
+
+}
+.menu i{
+    position:relative;
+    top: 10px;
+    margin-left: 8px;
+}
+.menu p{
+    margin-left: 3px;
+    margin-top:10px;
+    font-family: font-family: 'Nova Round', cursive;
+}
+
+.busqueda{
+    display: flex;
+    background-color: white;
+    max-width: 580px;
+    width: 60%;
+    height: 80%;
+    margin-top:5px;
+    margin-left: 40px;
+    padding-left: 20px;
+    border-radius: 35px
+    ;
+}
+.busqueda p{
+    position:relative;
+    margin-top: 5px;
+    color: rgb(207, 207, 207);
+    font-family: font-family: 'Nova Round', cursive;
+}
+.busqueda i{
+    position: relative;
+    top: 6px;
+    left: 6px;
+
+}
+.lupa{
+    background-color: black;
+    border-radius: 35px;
+    width: 30px;
+    color: white;
+    height: 80%;
+    margin-top:5px;
+    left: -25px;
+    min-width: 30px;
+  
+    position: relative;
+ 
+}
+
+.lupa i{
+position: relative;
+top: 5px;
+left: 5px;
+}
+
+.login{
+    color:white;
+    font-size:12px;
+    margin-left: 20px;
+    font-family: font-family: 'Nova Round', cursive;
+}
+.login p{
+    margin-top:1px;
+    margin-bottom: 1px;
+    font-family: font-family: 'Nova Round', cursive;
+}
+
+.miscompras{
+    color:white;
+    font-size:12px;
+    margin-left: 20px;
+    
+}
+.miscompras p{
+    margin-top:1px;
+    margin-bottom: 1px;
+
+}
+
+.carrito{
+    color: white;
+}
+
+.divisor{
+    width: 1px;
+    padding-left:20px;
+    padding-right:20px;
+    
+}
+.divisor p{
+    position:absolute
+    top: 2px;
+    height:31px;
+    color: white;
+    margin-left: 10px;
+    margin-right:10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin-top:1px;
+  
+    
+}
+
+.carrito {
+    position:relative;
+    left: 10px;
+    top: 8px;
+}
